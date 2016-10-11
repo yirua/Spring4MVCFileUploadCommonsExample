@@ -1,7 +1,0 @@
-com/websystique/springmvc/configuration/HelloWorldInitializer.class
-com/websystique/springmvc/util/MultiFileValidator.class
-com/websystique/springmvc/model/MultiFileBucket.class
-com/websystique/springmvc/util/FileValidator.class
-com/websystique/springmvc/configuration/HelloWorldConfiguration.class
-com/websystique/springmvc/controller/FileUploadController.class
-com/websystique/springmvc/model/FileBucket.class
